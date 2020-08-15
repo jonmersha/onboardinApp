@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CoopOnBoarding</string>
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+
+    </string-array>
+
+    <string-array name="marital_status">
+        <item>Marital Status</item>
+        <item>MARRIED</item>
+    </string-array>
+    <string-array name="title">
+        <item>Title</item>
+        <item>MR</item>
+        <item>MIS</item>
+    </string-array>
+    <string-array name="nationality">
+        <item>Nationality</item>
+        <item>ET</item>
+    </string-array>
+    <string-array name="country_of_residence">
+        <item>Country Of Residence</item>
+        <item>ET</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
